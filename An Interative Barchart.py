@@ -26,7 +26,7 @@ orange = cm.Oranges
 blue = cm.Blues
 
 
-# make the interactivity. This let you to set up the target value you want by clicking in the plot
+# make the interactivity. This let you to define the value of interest by clicking in the plot
 def onclick(event):
     yline = event.ydata
     lines.set_data(([0,1], yline))
