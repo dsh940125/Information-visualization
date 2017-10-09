@@ -1,4 +1,4 @@
-# Python-project
+# Visualization
 
 This contains some small visualization projects that I did using Python, including plotting an interactive barchart with 95% CI and making a scatterplot of 2004-2015 weather data from stations in Arlington, Virginia . 
 
