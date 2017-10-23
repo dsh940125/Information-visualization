@@ -7,3 +7,5 @@ This is an interactive bar-chart that allows users to define the values of inter
 
 ### A scatterplot of weather data:
 This is a scatterplot that shows the average record low and record high weather data in Arlington, Virginia from 2005 to 2014, and the broken records in 2015.
+
+### Sampling animation
