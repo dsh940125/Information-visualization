@@ -1,3 +1,7 @@
+
+### This is an interactive plot that allows readers to make their own plots. The plot will show the number of movies over time, 
+### but readers can choose whether it is line or bar plot and whether the plot shows all the movies or certain rating of movies.
+
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 %matplotlib inline
